@@ -1,5 +1,3 @@
-#!/usr/bin/env groovy
-
 stages{
   stage('Print commit'){
     steps{
