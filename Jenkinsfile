@@ -1,10 +1,6 @@
-stages{
+
   stage('Print commit'){
-    steps{
-      echo 'printing'
-
-    }
-
+ 
+      echo 'printing stage 1'
+ 
   }
-
-}
